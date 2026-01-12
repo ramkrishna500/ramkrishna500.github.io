@@ -1131,3 +1131,19 @@ section .container {
     transform: translateX(-50%);
   }
 }
+
+.icon-box {
+  text-align: left;
+}
+
+.icon-box ul {
+  padding-left: 18px;
+}
+
+.icon-box li {
+  margin-bottom: 6px;
+}
+
+.icon-box p {
+  line-height: 1.6;
+}
