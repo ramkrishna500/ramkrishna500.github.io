@@ -1,20 +1,20 @@
-# arasgungore.github.io
+# ramkrishna500.github.io
 
-My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://arasgungore.github.io).
+My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://ramkrishna500.github.io/).
 
 
 
 ## Screenshots
 
 <p float="center">
-    <img src="https://github.com/arasgungore/arasgungore.github.io/blob/main/Screenshots/1.png" width="800">
+    <img src="assets/img/background/image.png" width="800">
 </p>
 
 
 
 ## Author
 
-👤 **Aras Güngöre**
+👤 **Ramkrushna**
 
-* LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
-* GitHub: [@arasgungore](https://github.com/arasgungore)
+* LinkedIn: [@rmadole](https://www.linkedin.com/in/ramkrushna-madole-b482521b0/)
+* GitHub: [@rmadole](https://github.com/ramkrishna500)
